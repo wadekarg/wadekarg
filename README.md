@@ -1,6 +1,6 @@
 # Hi, I'm Gaj 👋
 
-📍 **Chicago, IL** | ✈️ **Senior SWE @ Anuvu** | 🤖 **Tinkering with reinforcement learning**
+📍 **Chicago, IL** | ✈️ **Senior SWE @ Anuvu** | 🛠️ **Building in public with Gen AI**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-> Backend & data engineer with 8+ years shipping systems. Currently keeping 2,000+ flights connected at Anuvu — 1TB of daily logs, 99%+ uptime, and a lot of bash. Questions every default. Optimizes until it's right.
+> Building open source tools that solve real problems — using Gen AI, vibe coding, and whatever works. Learning as I go, shipping as I learn.
 
 ## Projects
 
