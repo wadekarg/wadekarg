@@ -1,93 +1,36 @@
 ```
-GAJANAN(1)                    User Commands                   GAJANAN(1)
-
-
-NAME
-       gajanan-wadekar — software engineer, backend systems, data pipelines
-
-
-SYNOPSIS
-       gajanan [--role senior-swe] [--domain aviation-inflight]
-               [--location "Chicago, IL"] [--exp 8+yrs]
-               [--curious-about reinforcement-learning]
-
-
-DESCRIPTION
-       Software engineer with 8+ years shipping backend systems, data
-       pipelines, and telemetry tooling across aviation, fintech,
-       telecom, and enterprise automation.
-
-       Currently at Anuvu — keeping 2,000+ flights connected.
-       1TB of daily logs, 99%+ network uptime, and a lot of bash.
-
-       Interested in reinforcement learning. Builds things on weekends.
-       Questions every default. Optimizes until it's right.
-
-
-OPTIONS
-       --languages    Python · SQL · Bash · TypeScript · C#
-
-       --backend      FastAPI · Flask · .NET · REST · Linux
-
-       --data         Airflow · Snowflake · Spark SQL · Grafana
-                      PostgreSQL · MySQL · Oracle DB
-
-       --ml           PyTorch · scikit-learn · Q-Learning · POMDP
-                      TensorFlow · OpenCV
-
-       --infra        Docker · AWS · GCP · GitHub Actions · SNMP
-
-
-EXPERIENCE
-       Senior Software Engineer    Anuvu · Chicago, IL      2024–present
-       Software Engineer           Anuvu · Lombard, IL      2021–2024
-       Data Analyst                TEOCO Corp               2021
-       Data Engineer (intern)      Foxbat Research          2020
-       ML Engineer (intern)        Foxbat Research          2019
-       Software Engineer           Infosys BPM · Pune       2016–2018
-
-
-PROJECTS
-       WebGist            AI Chrome extension — summarize any webpage.
-                          12 LLM providers, 84 languages, TTS, PDF export.
-                          → github.com/wadekarg/WebGist
-
-       JobMatchAI         Chrome extension — score your resume against
-                          job postings. AI gap analysis + auto-fill.
-                          → github.com/wadekarg/JobMatchAI
-
-       DS-Algo Playground Interactive visualizer for 19 DS&A topics.
-                          Step-by-step canvas animations, quizzes.
-                          → wadekarg.github.io/DS-Algo-Playground
-
-       POMDP Navigation   RL agent navigating a grid with zero location
-                          info. Q-Learning + Bayesian belief states.
-                          → github.com/wadekarg/POMDP
-
-
-EDUCATION
-       M.S. Computer Science       University of Texas at Arlington  2020
-       B.E. Electrical Engineering  University of Pune               2015
-
-
-BUGS
-       Occasionally over-engineers a solution.
-       Known to be debugging at 2am. Not a bug — a feature.
-
-
-SEE ALSO
-       portfolio(1)   https://wadekarg.github.io
-       linkedin(1)    https://linkedin.com/in/gajananwadekar
-       email(1)       wadekar.gp@gmail.com
-
-
-AUTHOR
-       Gajanan Wadekar
-       Chicago, IL — March 2026
-
-
-                              "ship fast, learn faster"
+gaj@anuvu:~$ cat about.txt
 ```
+
+# Gajanan Wadekar
+
+Backend & data engineer. 8 years shipping systems across aviation, fintech, and telecom.
+
+Currently at **[Anuvu](https://anuvu.com)** — keeping 2,000+ flights connected.
+1TB of daily logs. 99%+ network uptime. A lot of bash.
+
+Interested in reinforcement learning. Builds things on weekends.
+Questions every default. Optimizes until it's right.
+
+---
+
+**Stack** &nbsp; `Python` `SQL` `Bash` `TypeScript` `C#`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `FastAPI` `Airflow` `Snowflake` `Spark` `Docker` `AWS` `GCP`
+
+---
+
+### Projects
+
+| | |
+|:--|:--|
+| [**WebGist**](https://github.com/wadekarg/WebGist) | AI Chrome extension — summarize any webpage. 12 LLM providers, 84 languages, TTS, PDF export. |
+| [**JobMatchAI**](https://github.com/wadekarg/JobMatchAI) | Chrome extension — score your resume against job postings. AI gap analysis + auto-fill. |
+| [**DS-Algo Playground**](https://wadekarg.github.io/DS-Algo-Playground) | Interactive visualizer for 19 DS&A topics with step-by-step canvas animations. |
+| [**POMDP Navigation**](https://github.com/wadekarg/POMDP) | RL agent navigating a grid with zero location info. Q-Learning + Bayesian belief states. |
+
+---
+
+[portfolio](https://wadekarg.github.io) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/gajananwadekar) &nbsp;·&nbsp; wadekar.gp@gmail.com
 
 ---
 
