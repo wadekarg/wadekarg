@@ -1,38 +1,27 @@
-```
-gaj@anuvu:~$ cat about.txt
-```
+# Hi, I'm Gaj 👋
 
-# Gajanan Wadekar
+📍 **Chicago, IL** | ✈️ **Senior SWE @ Anuvu** | 🤖 **Tinkering with reinforcement learning**
 
-Backend & data engineer. 8 years shipping systems across aviation, fintech, and telecom.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-Currently at **[Anuvu](https://anuvu.com)** — keeping 2,000+ flights connected.
-1TB of daily logs. 99%+ network uptime. A lot of bash.
+> Backend & data engineer with 8+ years shipping systems. Currently keeping 2,000+ flights connected at Anuvu — 1TB of daily logs, 99%+ uptime, and a lot of bash. Questions every default. Optimizes until it's right.
 
-Interested in reinforcement learning. Builds things on weekends.
-Questions every default. Optimizes until it's right.
+## Projects
 
----
+- ⚡ **[WebGist](https://github.com/wadekarg/WebGist)** - AI Chrome extension — summarize any webpage. 12 LLM providers, 84 languages, TTS, PDF export.
+- 🎯 **[JobMatchAI](https://github.com/wadekarg/JobMatchAI)** - Chrome extension — score your resume against job postings. AI gap analysis + auto-fill.
+- 🧩 **[DS-Algo Playground](https://wadekarg.github.io/DS-Algo-Playground)** - Interactive visualizer for 19 DS&A topics with step-by-step canvas animations and quizzes.
+- 🧠 **[POMDP Navigation](https://github.com/wadekarg/POMDP)** - RL agent navigating a grid with zero location info. Q-Learning + Bayesian belief states.
 
-**Stack** &nbsp; `Python` `SQL` `Bash` `TypeScript` `C#`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `FastAPI` `Airflow` `Snowflake` `Spark` `Docker` `AWS` `GCP`
-
----
-
-### Projects
-
-| | |
-|:--|:--|
-| [**WebGist**](https://github.com/wadekarg/WebGist) | AI Chrome extension — summarize any webpage. 12 LLM providers, 84 languages, TTS, PDF export. |
-| [**JobMatchAI**](https://github.com/wadekarg/JobMatchAI) | Chrome extension — score your resume against job postings. AI gap analysis + auto-fill. |
-| [**DS-Algo Playground**](https://wadekarg.github.io/DS-Algo-Playground) | Interactive visualizer for 19 DS&A topics with step-by-step canvas animations. |
-| [**POMDP Navigation**](https://github.com/wadekarg/POMDP) | RL agent navigating a grid with zero location info. Q-Learning + Bayesian belief states. |
-
----
-
-[portfolio](https://wadekarg.github.io) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/gajananwadekar) &nbsp;·&nbsp; wadekar.gp@gmail.com
-
----
+## GitHub Activity
 
 <div align="center">
 
@@ -48,3 +37,7 @@ Questions every default. Optimizes until it's right.
 </picture>
 
 </div>
+
+---
+
+[portfolio](https://wadekarg.github.io) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/gajananwadekar) &nbsp;·&nbsp; wadekar.gp@gmail.com
