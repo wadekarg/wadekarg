@@ -20,6 +20,8 @@
 - 🎯 **[JobMatchAI](https://github.com/wadekarg/JobMatchAI)** - Chrome extension — score your resume against job postings. AI gap analysis + auto-fill.
 - 🧩 **[DS-Algo Playground](https://wadekarg.github.io/DS-Algo-Playground)** - Interactive visualizer for 19 DS&A topics with step-by-step canvas animations and quizzes.
 - 🧠 **[POMDP Navigation](https://github.com/wadekarg/POMDP)** - RL agent navigating a grid with zero location info. Q-Learning + Bayesian belief states.
+- 🎮 **[RL Interactive Lab](https://github.com/wadekarg/RL-interactive-lab)** - Browser-based RL learning platform. 13 algorithms, 4 environments, 10-chapter course.
+- 🔬 **[Decision Boundary](https://github.com/wadekarg/Decision-Boundry-using-Neural-Network)** - Perceptron learning with live decision boundary visualization.
 
 ---
 
