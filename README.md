@@ -21,23 +21,6 @@
 - 🧩 **[DS-Algo Playground](https://wadekarg.github.io/DS-Algo-Playground)** - Interactive visualizer for 19 DS&A topics with step-by-step canvas animations and quizzes.
 - 🧠 **[POMDP Navigation](https://github.com/wadekarg/POMDP)** - RL agent navigating a grid with zero location info. Q-Learning + Bayesian belief states.
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=wadekarg&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=888888&text_color=aaaaaa&bg_color=0d1117" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadekarg&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wadekarg/wadekarg/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wadekarg/wadekarg/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/wadekarg/wadekarg/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
 ---
 
 [portfolio](https://wadekarg.github.io) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/gajananwadekar) &nbsp;·&nbsp; wadekar.gp@gmail.com
