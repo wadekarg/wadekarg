@@ -16,8 +16,10 @@
 
 ## Projects
 
-- ⚡ **[WebGist](https://github.com/wadekarg/WebGist)** - AI Chrome extension — summarize any webpage. 12 LLM providers, 84 languages, TTS, PDF export. [**Try it free on Chrome Web Store**](https://chromewebstore.google.com/detail/webgist/dnbidheddllimfeblnkaeoolmcmmdeee)
-- 🎯 **[JobMatchAI](https://github.com/wadekarg/JobMatchAI)** - Chrome extension — score your resume against job postings. AI gap analysis + auto-fill. [**Try it free on Chrome Web Store**](https://chromewebstore.google.com/detail/jobmatch-ai-%E2%80%93-smart-resum/pfdlaofmcbmjnljfiembdcadcjjnlcia?hl=en-US)
+- ⚡ **[WebGist](https://github.com/wadekarg/WebGist)** - AI Chrome extension — summarize any webpage. 12 LLM providers, 84 languages, TTS, PDF export.
+  [**Try it free on Chrome Web Store**](https://chromewebstore.google.com/detail/webgist/dnbidheddllimfeblnkaeoolmcmmdeee)
+- 🎯 **[JobMatchAI](https://github.com/wadekarg/JobMatchAI)** - Chrome extension — score your resume against job postings. AI gap analysis + auto-fill.
+  [**Try it free on Chrome Web Store**](https://chromewebstore.google.com/detail/jobmatch-ai-%E2%80%93-smart-resum/pfdlaofmcbmjnljfiembdcadcjjnlcia?hl=en-US)
 - 🧩 **[DS-Algo Playground](https://wadekarg.github.io/DS-Algo-Playground)** - Interactive visualizer for 19 DS&A topics with step-by-step canvas animations and quizzes.
 - 🧠 **[POMDP Navigation](https://github.com/wadekarg/POMDP)** - RL agent navigating a grid with zero location info. Q-Learning + Bayesian belief states.
 - 🎮 **[RL Interactive Lab](https://github.com/wadekarg/RL-interactive-lab)** - Browser-based RL learning platform. 13 algorithms, 4 environments, 10-chapter course.
