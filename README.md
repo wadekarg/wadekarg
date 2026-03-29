@@ -2,6 +2,8 @@
 
 📍 **Chicago, IL** | ✈️ **Senior SWE @ Anuvu** | 🤖 **Exploring RL**
 
+![Visitors](https://komarev.com/ghpvc/?username=wadekarg&color=blue&style=flat-square&label=Profile+Views)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -9,6 +11,8 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
@@ -29,4 +33,6 @@
 
 ---
 
-[portfolio](https://wadekarg.github.io) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/gajananwadekar) &nbsp;·&nbsp; wadekar.gp@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-wadekarg.github.io-000?style=for-the-badge&logo=github&logoColor=white)](https://wadekarg.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gajananwadekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gajananwadekar)
+[![Email](https://img.shields.io/badge/Email-wadekar.gp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wadekar.gp@gmail.com)
