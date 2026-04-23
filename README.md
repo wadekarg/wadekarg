@@ -1,6 +1,6 @@
 # Hi, I'm Gaj 👋
 
-📍 **Chicago, IL** | ✈️ **Software Engineer @ Anuvu** | 🤖 **Exploring RL**
+📍 **Chicago, IL** | ✈️ **Software / Data / Backend Engineer @ Anuvu** | 🤖 **Exploring RL**
 
 ![Visitors](https://komarev.com/ghpvc/?username=wadekarg&color=blue&style=flat-square&label=Profile+Views)
 
