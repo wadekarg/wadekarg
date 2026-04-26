@@ -17,7 +17,7 @@
 
 ## Projects
 
-- <img src="assets/whatif-sabha.svg" width="18" alt="WhatIfSabha"> **[WhatIfSabha](https://github.com/wadekarg/whatif-sabha)** - Upload a book, ask a "what if" question, watch the characters debate the alternate ending.<br>
+- <img src="assets/whatif-sabha.svg" width="18" alt="WhatIfSabha"> **[WhatIfSabha](https://github.com/wadekarg/whatif-sabha)** - Multi-agent debate engine — upload a book, ask a "what if" question, watch characters debate the alternate ending.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[![See the demo](https://img.shields.io/badge/Try_it-whatif--sabha.pages.dev-4CAF50?style=flat-square&logo=cloudflarepages&logoColor=white)](https://whatif-sabha.pages.dev)
 - ✈️ **[FriendInSky](https://friendinsky.com/)** - Travel companion app — connect with helpful travelers on the same flight.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[![Try it](https://img.shields.io/badge/Try_it-friendinsky.com-00B4D8?style=flat-square&logo=flutter&logoColor=white)](https://friendinsky.com/)
