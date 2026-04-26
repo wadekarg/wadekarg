@@ -17,6 +17,8 @@
 
 ## Projects
 
+- ☸ **[WhatIfSabha](https://github.com/wadekarg/whatif-sabha)** - Multi-agent literary debate engine — upload a book, give it a "what if", watch AI versions of the characters argue an alternate ending. Live debate with voices, argument ledger, and an interaction graph.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[![See the demo](https://img.shields.io/badge/Try_it-whatif--sabha.pages.dev-4CAF50?style=flat-square&logo=cloudflarepages&logoColor=white)](https://whatif-sabha.pages.dev)
 - ✈️ **[FriendInSky](https://friendinsky.com/)** - Travel companion app — connect with helpful travelers on the same flight.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[![Try it](https://img.shields.io/badge/Try_it-friendinsky.com-00B4D8?style=flat-square&logo=flutter&logoColor=white)](https://friendinsky.com/)
 - ⚡ **[WebGist](https://github.com/wadekarg/WebGist)** - AI Chrome extension — summarize any webpage. 12 LLM providers, 84 languages, TTS, PDF export.<br>
