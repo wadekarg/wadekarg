@@ -19,6 +19,8 @@
 
 - <img src="assets/whatif-sabha.svg" width="18" alt="WhatIfSabha"> **[WhatIfSabha](https://github.com/wadekarg/whatif-sabha)** - Multi-agent debate engine — upload a book, ask "what if", watch characters debate the alternate ending.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[![See the demo](https://img.shields.io/badge/Try_it-whatif--sabha.pages.dev-4CAF50?style=flat-square&logo=cloudflarepages&logoColor=white)](https://whatif-sabha.pages.dev)
+- ✅ **[Mohri](https://github.com/wadekarg/mohri)** - The task manager Mac deserved — a beautiful, native macOS app with three themes, iCloud sync, and a smart dashboard.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[![Mac App Store](https://img.shields.io/badge/Download-Mac_App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/mohri/id6760242363)
 - ✈️ **[FriendInSky](https://friendinsky.com/)** - Travel companion app — connect with helpful travelers on the same flight.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[![Try it](https://img.shields.io/badge/Try_it-friendinsky.com-00B4D8?style=flat-square&logo=flutter&logoColor=white)](https://friendinsky.com/)
 - ⚡ **[WebGist](https://github.com/wadekarg/WebGist)** - AI Chrome extension — summarize any webpage. 12 LLM providers, 84 languages, TTS, PDF export.<br>
