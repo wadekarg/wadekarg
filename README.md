@@ -2,7 +2,7 @@
 
 📍 **Chicago, IL** | ✈️ **Software / Data / Backend Engineer @ Anuvu** | 🤖 **Exploring RL**
 
-![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwadekarg&label=Profile%20Views&labelColor=%23555555&countColor=%23007ec6&style=flat-square)
+![Profile Views](https://profile-counter.wadekargajanan.workers.dev/badge.svg)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
