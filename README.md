@@ -2,7 +2,7 @@
 
 📍 **Chicago, IL** | ✈️ **Software / Data / Backend Engineer @ Anuvu** | 🤖 **Exploring RL**
 
-![Visitors](https://komarev.com/ghpvc/?username=wadekarg&color=blue&style=flat-square&label=Profile+Views)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwadekarg&label=Profile%20Views&labelColor=%23555555&countColor=%23007ec6&style=flat-square)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -19,6 +19,8 @@
 
 - <img src="assets/whatif-sabha.svg" width="18" alt="WhatIfSabha"> **[WhatIfSabha](https://github.com/wadekarg/whatif-sabha)** - Multi-agent debate engine — upload a book, ask "what if", watch characters debate the alternate ending.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[![See the demo](https://img.shields.io/badge/Try_it-whatif--sabha.pages.dev-4CAF50?style=flat-square&logo=cloudflarepages&logoColor=white)](https://whatif-sabha.pages.dev)
+- <img src="assets/sequelbridge.png" width="18" alt="SequelBridge"> **[SequelBridge](https://github.com/wadekarg/SequelBridge)** - Native macOS SQL client — one query, JOINs included, across MySQL, PostgreSQL, SQLite, and ClickHouse at once.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Website-sequelbridge.pages.dev-1F6FEB?style=flat-square&logo=cloudflarepages&logoColor=white)](https://sequelbridge.pages.dev) [![Download](https://img.shields.io/badge/Download-macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://github.com/wadekarg/SequelBridge/releases/latest)
 - ✅ **[Mohri](https://github.com/wadekarg/mohri)** - The task manager Mac deserved — a beautiful, native macOS app with three themes, iCloud sync, and a smart dashboard.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[![Mac App Store](https://img.shields.io/badge/Download-Mac_App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/mohri/id6760242363)
 - ✈️ **[FriendInSky](https://friendinsky.com/)** - Travel companion app — connect with helpful travelers on the same flight.<br>
